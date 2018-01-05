@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.zshrc
+!.vimrc
+!.vim/
+!.vim/*
+!.vim/*/*
+
+.vim/bundle/*
